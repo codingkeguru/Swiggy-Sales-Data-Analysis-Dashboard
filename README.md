@@ -2,7 +2,9 @@
 
 
 🍽️ Swiggy Sales Data Analysis Dashboard
+
 📖 Project Overview
+
 This project showcases an Excel-based interactive dashboard built using raw Swiggy sales data. The goal is to analyze food delivery trends, customer behavior, and restaurant performance, while demonstrating strong skills in data cleaning, visualization, and business insights generation.
 
 🛠️ Tools & Techniques
